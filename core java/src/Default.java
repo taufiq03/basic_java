@@ -1,0 +1,19 @@
+
+public class Default {
+
+	
+	static int age;  // default value of int age is 0
+	static String name; //default value of string is null
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		System.out.println(age);
+		
+		System.out.println(name);
+		
+		
+	}
+
+}
